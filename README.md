@@ -1,5 +1,5 @@
 # drag-move
-vue drag file 文件或文件夹拖拽移动效果
+https://img.shields.io/badge/drag--move-666-green
 
 ### Demo
 ``` vue
