@@ -1,2 +1,2 @@
 # drag-move
-vue 拖拽移动
+vue file 文件或文件夹拖拽移动效果
