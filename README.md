@@ -1,2 +1,2 @@
 # drag-move
-vue, drag, move
+vue 拖拽移动
