@@ -1,5 +1,5 @@
 # drag-move
-https://img.shields.io/badge/drag--move-666-green
+![](https://img.shields.io/badge/drag--move-666-green)
 
 ### Demo
 ``` vue
