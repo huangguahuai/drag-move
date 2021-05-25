@@ -1,6 +1,6 @@
 # drag-move
 ![](https://img.shields.io/badge/drag--move-666-green)
-
+![](https://img.shields.io/badge/folder--move-%E6%96%87%E4%BB%B6%E6%88%96%E6%96%87%E4%BB%B6%E5%A4%B9%E6%8B%96%E6%8B%BD%E7%A7%BB%E5%8A%A8-blue)
 ### Demo
 ``` vue
 <template>
